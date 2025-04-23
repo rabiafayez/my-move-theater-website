@@ -1,0 +1,87 @@
+body {
+
+
+    margin: 0;
+    font-family: 'font-family: 'Tangerine', serif;'.
+    
+
+
+    
+    
+
+
+    
+}
+
+.theater {
+    
+    text-align: center;
+    padding: 20px;
+    border: 5px solid #d1dbeb;
+    border-radius: 60px;
+    box-shadow: 0 0 200px rgba(6, 21, 138, 0.949);
+    margin: 50px auto;
+    max-width: 800px;
+    position: relative;
+    overflow: hidden;
+    background-color: rgba(24, 14, 14, 0.97) ;
+    
+    
+    
+    
+}
+
+h1 {
+    font-size: 3.5em;
+    margin-bottom: 20px;
+    color: aliceblue;
+    
+}
+
+.video-container {
+    margin: 20px 0;
+}
+
+video {
+    width: 100%;
+    border-radius: 30px;
+}
+
+
+
+
+
+.buttons {
+    margin-top: 20px;
+    color: aliceblue;
+    
+    
+    
+}
+.marquee { border: blanchedalmond;
+
+}
+button {
+    background-color: #cfcfde;
+    border: #aeb69b;  
+    color: #211e1e;
+    padding: 10px 20px;
+    border-radius: 60px;
+    font-size: 2em;
+    cursor: pointer;
+    margin:  20px;
+    box-shadow: #cad6aa;
+    
+
+}
+
+button:hover {
+    background-color: #cad6aa;
+}
+.marquee{
+    color: aqua;
+
+
+
+}
+
